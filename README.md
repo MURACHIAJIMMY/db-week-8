@@ -9,7 +9,7 @@ The Clinic Booking System is designed to manage appointments, patients, doctors,
 - Manage patient information
 
 - Schedule and manage appointments
-- 
+
 - Track doctor availability
 - 
 - Record and manage services provided to patients
